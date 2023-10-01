@@ -28,3 +28,23 @@ _italic text_
 [visit to RoadToCode](https://www.roadtocode.org/login)
 
 [visit to my Github account](https://github.com/achalkatkar)
+
+Order List  :
+
+1. Item one
+   1. Sub item one
+   2. Sub item two
+   3. Sub item three
+2. Item two
+
+Ordered List :
+
+  1. Menu
+     1. Home
+     2. About
+     3. Contact
+     4. Login
+  2. Card
+     1. card-1
+     2. card-2
+     3. card-3
