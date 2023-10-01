@@ -62,3 +62,34 @@ Unorderd List :
 **image**
 
 ![Nature image](https://tse4.mm.bing.net/th?id=OIP.HxV79tFMPfBAIo0BBF-sOgHaEy&pid=Api&P=0&h=180) 
+
+![Butterfly](https://tse2.mm.bing.net/th?id=OIP.w22IcN1qPBzPjzq-w6J1hgHaEo&pid=Api&P=0&h=180)
+
+![Achal](/achal.jpg ) 
+
+```
+def hello
+   puts "Hello world!"
+end
+```
+
+ruby :
+
+```ruby
+ def hello
+   puts "Hello world!"
+end
+```
+
+css :
+
+```css
+ height= "100px"
+ width= "20px"
+```
+
+python :
+
+ ```python
+ print "Achal Katkar"
+ ```
