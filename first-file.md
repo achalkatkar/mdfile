@@ -93,3 +93,45 @@ python :
  ```python
  print "Achal Katkar"
  ```
+
+InList Item code block :
+
+1. Item 1
+2. Item 2 
+  ```python
+  print "item-1"
+  print "item-2"
+  ```
+3. Item 3
+
+
+Blockquotes :
+
+>This is a blockquotes. 
+>   on multiple lines. 
+That may be lazy.
+>
+>This is the second paragraph.
+
+----
+
+>This is a paraghraph.
+>
+> >A nested blockquote.
+>
+>### Headers work
+>
+> * lists too
+>
+>and all other block-level **elements**
+>
+>Even code blocks :
+>
+>      def hello
+>        puts "Hello world!"
+>      end
+
+
+```python
+print " Hello RoadToCode "
+```
