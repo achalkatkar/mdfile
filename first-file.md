@@ -22,3 +22,9 @@ text-2
 _italic text_
 
 ***bold and italic text***
+
+<ins>underlined text</ins>
+
+[visit to RoadToCode](https://www.roadtocode.org/login)
+
+[visit to my Github account](https://github.com/achalkatkar)
